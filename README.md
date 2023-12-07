@@ -1,0 +1,1 @@
+THis repository is to practice shell basics and navigation in the ubuntu environment.

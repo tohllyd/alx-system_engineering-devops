@@ -1,0 +1,4 @@
+0-current_working_directory  1-listit         3-listfiles      5-listfilesdigitonly  7-movethatfile  9-firstdirdeletion
+10-back                      2-bring_me_home  4-listmorefiles  6-firstdirectory      8-firstdelete   README.md
+root@5e1e5bd3db92:/alx-system_engineering-devops/0x00-shell_basics# emacs
+77;30601;0c

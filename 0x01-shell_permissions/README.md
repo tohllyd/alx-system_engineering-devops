@@ -1,0 +1,1 @@
+This readme if for shell permission projects

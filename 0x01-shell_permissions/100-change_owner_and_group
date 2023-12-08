@@ -1,2 +1,2 @@
 #!/bin/bash
-chowm -R vincent:staff
+sudo find . -exec chown vincent:staff
